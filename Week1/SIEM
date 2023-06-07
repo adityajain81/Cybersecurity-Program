@@ -1,0 +1,28 @@
+Security Information and Event Management(SIEM) 
+It is an umbrella term for security software packages ranging from Log Management Systems to Security Event Management.
+
+While a SIEM system isn't a foolproof, it's one if the key indicators that an organization has a clearly defined cybersecurity policy.
+
+Nine times out of ten, cyber attacks don't have any clear tells on a surface level. To detect threats, it's more effective to use the log files.
+The superior log management capabilities of SIEMs have made them a central hub of network transparency.
+
+SIEM's basic capabilities-
+1. Log Collection
+2. Normalization- Collecting logs and normalizing them into a standard format.
+3. Notifications and Alerts- Notifying the user when security threats are identified.
+4. Security threat Detection
+5. Threat response workflow- Workflow for handling past security events.
+
+SIEM records data from across a users' internal network of tools and identifies potential issues and attacks.
+The system operates under a stastistial model to analyze log entries. SIEM distributes collection agens and recallls data from the network, devices, and firewalls.
+
+All this information is then passed to a management console where it can be analyzed to address emerging threats.
+It's common for advanced SIEM systems to use automated responses, entity behavior analytics and security orchestrations. 
+This ensures that vulnerabilities between cybersecurity tools can be monitored and addressed by SIEM technology.
+
+Once the necessary information reaches the management console, it is then viewed by a data analyst who can provide feedback on the overall process. This is important because
+feedback helps to educate the SIEM system in terms of machine learning and increasing its familiarity with the surrounding environment. 
+
+Once the SIEM software system identifies a threat, it then ommunicates with other security systems on the device to stop the unwanted activity. 
+
+
